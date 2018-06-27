@@ -15,6 +15,29 @@
 
 Voor het Scheepvaartmuseum maken we een user-generated verhalen site over het schip 'de Oranje'. Mensen moeten hun verhaal kunnen delen met de mogelijkheid om media toe te voegen zoals foto's. Deze verhalen moeten terug te vinden zijn op een overzichtpagina. Gebruikers van de site moeten ook reacties achter kunnen laten op vehalen.
 
+
+## Getting Started
+
+Om met dit project van start te gaan moet je eerst deze repository overzetten naar je locale machine met `git clone`.
+
+Daarna:
+
+```js
+yarn install
+```
+
+Om te beginnen met developen:
+
+```js
+yarn run start
+```
+
+Om de code op te bouwen:
+
+```js
+yarn run build
+```
+
 ## Persoonlijke doelen
 
 - Betere JavaScript schrijven
@@ -294,3 +317,7 @@ Code snippet van de verhaal blokjes op de homepagina en overzichtpagina:
 	}
 }
 ```
+
+## Conclusie meesterproef
+
+Voordat ik begon aan de meesterproef, was ik van plan om alleen te werken. Dat was ik gewend van de minor, omdat alle voorgaande projecten/vakken individueel waren. In het begin vond ik het lastig om mijn deel uit te kiezen en daar aan te gaan werken. Dankzij het opdelen van het geheel in componenten ging dit uiteindelijk een stuk makkelijker. Ook was het aan het begin enorm wennen aan de tooling en het feit dat je je aan de code- en naamgeving conventies moet houden binnen het team. Dit leidt er wel toe dat je goed nadenk over wat je codeert.
