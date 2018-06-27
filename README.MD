@@ -321,3 +321,13 @@ Code snippet van de verhaal blokjes op de homepagina en overzichtpagina:
 ## Conclusie meesterproef
 
 Voordat ik begon aan de meesterproef, was ik van plan om alleen te werken. Dat was ik gewend van de minor, omdat alle voorgaande projecten/vakken individueel waren. In het begin vond ik het lastig om mijn deel uit te kiezen en daar aan te gaan werken. Dankzij het opdelen van het geheel in componenten ging dit uiteindelijk een stuk makkelijker. Ook was het aan het begin enorm wennen aan de tooling en het feit dat je je aan de code- en naamgeving conventies moet houden binnen het team. Dit leidt er wel toe dat je goed nadenk over wat je codeert.
+
+## Contributors
+
+| Contributor  | Github URL                       |
+|--------------|:-------------------------------  |
+| Mees         | https://github.com/meesrutten       |
+| Mo           | https://github.com/moniac        |
+| Niels        | https://github.com/NielsFS       |
+| Jamie        | https://github.com/jajan20 |
+| Servin       | https://github.com/servinlp      |
