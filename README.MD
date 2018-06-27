@@ -83,7 +83,7 @@ Na het gesprek met Joost ben ik gelijk aan de gang gegaan. Ik heb alle overbodig
 Ik heb mijn best gedaan om de componenten semantisch te krijgen. In het vervolg van het project ben ik meer gaan kijken naar de semantiek van componenten waar ik mee te maken kreeg.
 
 Vakken toegepast:
-- WAFS
+[x] WAFS
 - CSSTTR
 - Browser technologies
 
