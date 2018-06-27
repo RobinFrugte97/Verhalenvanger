@@ -69,6 +69,8 @@ yarn run build
 - Uploadpagina video preview
 - Implementatie Intersection Observer
 
+![](https://github.com/RobinFrugte97/meesterproef-scheepvaartmuseum/blob/master/gridcards.png)
+
 ### Aan meegewerkt/een gedeelte gemaakt:
 
 - Overzichtpagina layout
