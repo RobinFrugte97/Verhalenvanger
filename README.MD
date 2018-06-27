@@ -2,18 +2,26 @@
 
 - [De opdracht](#de-opdracht)
 - [Persoonlijke doelen](#persoonlijke-doelen)
-- [Waar heb ik aan gewerkt?](#waar-heb-ik-aan-gewerkt?)
+- [Waar heb ik aan gewerkt](#waar-heb-ik-aan-gewerkt)
 	- [Gemaakte/gestylede componenten](#gemaakte/gestylede-componenten)
 	- [Aan meegewerkt/een gedeelte gemaakt](#aan-meegewerkt/een-gedeelte-gemaakt)
-- [Waar ben ik trots op?](#waar-ben-ik-trots-op?)
+- [Waar ben ik trots op](#waar-ben-ik-trots-op)
 	- [Components semantisch opbouwen](#components-semantisch-opbouwen)
 	- [Inclusiveness fix in de Intersection Observer](#inclusiveness-fix-in-de-intersection-observer)
 	- [Code in functions](#code-in-functions)
-- [Welke vakken heb ik toegepast?](#welke-vakken-heb-ik-toegepast)
+- [Wat heb ik geleerd](#wat-heb-ik-geleerd)
+	- [Functions gebruiken](#functions-gebruiken)
+	- [Inclusive design](#inclusive-design)
+	- [SCSS](#scss)
+- [Conclusie meesterproef](#conclusie-meesterproef)
 
 ## De opdracht
 
-Voor het Scheepvaartmuseum maken we een user-generated verhalen site over het schip 'de Oranje'. Mensen moeten hun verhaal kunnen delen met de mogelijkheid om media toe te voegen zoals foto's. Deze verhalen moeten terug te vinden zijn op een overzichtpagina. Gebruikers van de site moeten ook reacties achter kunnen laten op vehalen.
+Voor het Scheepvaartmuseum maken we een user-generated verhalen site over het schip 'de Oranje'. Mensen moeten hun verhaal kunnen delen met de mogelijkheid om media toe te voegen zoals foto's, video's en geluidfragmenten. Deze verhalen moeten terug te vinden zijn op een overzichtpagina. Gebruikers van de site moeten ook reacties achter kunnen laten op vehalen.
+
+## Design challenge
+
+Hoe kunnen wij de website zo aantrekkelijk mogelijk maken voor de gebruiker, zodat de gebruiker zich uitgenodigd voelt om zijn/haar eigen verhaal achter te laten om een user-generated verhalen site draaiend te houden? Hoe nodigen we gebruikers uit verhalen te lezen?
 
 
 ## Getting Started
@@ -46,7 +54,7 @@ yarn run build
 - Schonere CSS & een nieuwe CSS extension
 
 
-## Waar heb ik aan gewerkt?
+## Waar heb ik aan gewerkt
 
 ### Gemaakte/gestylede Componenten:
 
@@ -68,7 +76,7 @@ yarn run build
 - Uploadpagina foto en audio upload preview
 - Intersection Observer
 
-## Waar ben ik trots op?
+## Waar ben ik trots op
 
 ### Components semantisch opbouwen
 
@@ -83,7 +91,7 @@ Na het gesprek met Joost ben ik gelijk aan de gang gegaan. Ik heb alle overbodig
 Ik heb mijn best gedaan om de componenten semantisch te krijgen. In het vervolg van het project ben ik meer gaan kijken naar de semantiek van componenten waar ik mee te maken kreeg.
 
 Vakken toegepast:
-- [ x ] WAFS
+- WAFS
 - CSSTTR
 - Browser technologies
 
@@ -192,7 +200,7 @@ function videoPreview() {
 }
 ```
 
-## Wat heb ik geleerd?
+## Wat heb ik geleerd
 
 ### Functions gebruiken
 
