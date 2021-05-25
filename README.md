@@ -69,7 +69,7 @@ yarn run build
 - Uploadpagina video preview
 - Implementatie Intersection Observer
 
-![](https://github.com/RobinFrugte97/meesterproef-scheepvaartmuseum/blob/master/gridcards.png)
+![](https://raw.githubusercontent.com/RobinFrugte97/meesterproef-scheepvaartmuseum/master/gridcards.png)
 
 ### Aan meegewerkt/een gedeelte gemaakt:
 
